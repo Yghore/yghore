@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[STATS](https://github-readme-stats.vercel.app/api?username=yghore&show_icons=true&layout=compact&theme=dark)
+[LANGUAGE](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yghore&show_icons=true&theme=dark)
+
 <!--
 **Yghore/yghore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
