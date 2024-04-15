@@ -31,11 +31,6 @@
 
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="40" height="40"/>
 
