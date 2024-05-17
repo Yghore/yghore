@@ -1,8 +1,3 @@
-# 💫 About Me:
-
-Guillaume Wisslé, actuellement étudiant à l'université Nancy Charlemagne en 3ᵉ année, parcours DACS (Déploiement d'Applications Communicantes et Sécurisées).<br><br><br>[Mes compétences](./skills.md)<br>[Mes projets](./projects.md)<br>[Mon portfolio](https://portfolio.kiwigdc.fr/#presentationmoi)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nxEeRPWF2G) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yghore) 
 
